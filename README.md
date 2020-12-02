@@ -27,7 +27,5 @@ Intel(R) Core(TM) i7-6700K CPU @ 4.80GHz
 
 ## Direitos autorais
 
-O problema original foi elaborado pelo grupofleury-datascience/data-science-test.
-
 A solução por Bruno Caldas <bruno.caldas@gmail.com>
 
